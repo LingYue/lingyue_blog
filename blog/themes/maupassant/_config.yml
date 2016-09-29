@@ -26,6 +26,9 @@ menu:
   - page: 书单
     directory: book/
     icon: fa-book
+  - page: 美图 
+    directory: cool/
+    icon: fa-file-picture-o
   - page: 订阅
     directory: atom.xml
     icon: fa-rss
